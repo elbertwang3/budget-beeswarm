@@ -3,7 +3,7 @@
   import { format } from "d3-format";
   import { descriptions, department } from "./data/data";
 
-  console.log(descriptions)
+  console.log(descriptions);
 
   export let w, h, hovered, formatPercent, formatDollars;
 
@@ -31,13 +31,17 @@
         : hovered.e.clientY - tooltipHeight / 2
     }px; left: ${
       hovered.e.clientX + tooltipWidth > w
-        ? hovered.e.clientX - tooltipWidth - offset
+        ? hovered.e.clientX - tooltipWidth < 0
+          ? hovered.e.clientX - tooltipWidth / 2
+          : hovered.e.clientX - tooltipWidth - offset
         : hovered.e.clientX + offset
     }px;`}
 >
   {#if hovered}
     <div class="title">{department[hovered.data.department]}</div>
-    <div class="description">{descriptions[department[hovered.data.department]]}</div>
+    <div class="description">
+      {descriptions[department[hovered.data.department]]}
+    </div>
     <div class="value">
       {formatDollars(hovered.data["2022"])}
       <span
@@ -69,8 +73,8 @@
   }
 
   .description {
-      font-size: 0.75rem;
-      color: #666;
+    font-size: 0.75rem;
+    color: #666;
   }
 
   .value {

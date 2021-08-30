@@ -1,7 +1,7 @@
 <script>
   export let zDomain, zRange, formatPercent;
 
-  const rectWidth = 40;
+  const rectWidth = 36;
   const rectHeight = 8;
 </script>
 

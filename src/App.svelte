@@ -92,7 +92,7 @@
             r={rKey}
             rScale={scaleSqrt()}
             rDomain={[0, max(data, (d) => d["2022"])]}
-            rRange={[3, 50]}
+            rRange={[1, 40]}
             zScale={scaleThreshold()}
             {zDomain}
             {zRange}
@@ -128,16 +128,16 @@
   }
 
   .grid {
-    max-width: 900px;
+    max-width: 800px;
     margin: auto;
     display: grid;
     grid-gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     height: auto;
   }
 
   .key {
-    max-width: 280px;
+    max-width: 252px;
     margin: 0 auto 1rem auto;
   }
 
