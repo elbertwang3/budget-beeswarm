@@ -86,7 +86,6 @@
       class="voronoi-cell"
       d={voronoi.renderCell(i)}
       on:mousemove={(e) => {
-          console.log(e)
         hovered = { e: e, data: point.data };
       }}
       on:mouseout={() => (hovered = null)}

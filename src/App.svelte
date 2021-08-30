@@ -12,15 +12,14 @@
   import { format } from "d3-format";
   import AxisX from "./AxisX.svelte";
   import Beeswarm from "./Beeswarm.svelte";
-  import Voronoi from "./Voronoi.svelte";
   import Tooltip from "./Tooltip.svelte";
   import Key from "./Key.svelte";
 
-  let w, h;
+  let w, h, container;
   let hovered, nodes;
 
   const grouped = group(data, (d) => d.organization_group);
-  $: console.log(hovered);
+  // $: console.log(hovered);
 
   let xKey = "change",
     rKey = "2022",
@@ -80,7 +79,12 @@
     <div class="legend-title">Change in budget from previous year</div>
     <Key {zDomain} {zRange} {formatPercent} />
   </div>
-  <div class="grid" bind:clientWidth={w} bind:clientHeight={h}>
+  <div
+    class="grid"
+    bind:clientWidth={w}
+    bind:clientHeight={h}
+    bind:this={container}
+  >
     {#each [...grouped] as [key, value]}
       <div class="chart-container">
         <div class="title">{key}</div>
@@ -101,12 +105,7 @@
           >
             <Svg>
               <!-- <AxisX formatTick={formatPercent} {xKey} /> -->
-              <Beeswarm
-                strokeWidth={1}
-                xStrength={0.95}
-                yStrength={0.075}
-                bind:hovered
-              />
+              <Beeswarm bind:hovered />
               <!-- <Voronoi bind:hovered {nodes} /> -->
             </Svg>
 
@@ -116,7 +115,9 @@
         </div>
       </div>
     {/each}
-    <Tooltip {w} {h} {hovered} {formatPercent} {formatDollars} />
+    {#if container}
+      <Tooltip {w} {h} {container} {hovered} {formatPercent} {formatDollars} />
+    {/if}
   </div>
 </main>
 
@@ -128,6 +129,7 @@
   }
 
   .grid {
+    position: relative;
     max-width: 800px;
     margin: auto;
     display: grid;
@@ -145,7 +147,7 @@
     font-size: 0.85rem;
     font-weight: 600;
     text-align: center;
-	margin-bottom: 0.25rem;
+    margin-bottom: 0.25rem;
   }
 
   .chart-container {

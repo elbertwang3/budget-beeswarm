@@ -3,18 +3,41 @@
   import { format } from "d3-format";
   import { descriptions, department } from "./data/data";
 
-  console.log(descriptions);
+  export let w, h, container, hovered, formatPercent, formatDollars;
 
-  export let w, h, hovered, formatPercent, formatDollars;
+  let left = container.getBoundingClientRect().left;
+  let top = container.getBoundingClientRect().top;
 
   //   const { width, height } = getContext("LayerCake");
   const offset = 10;
   let tooltipWidth, tooltipHeight;
 
   $: if (hovered) {
-    // console.log(rootHeight);
+    // console.log(hovered.e.clientX + tooltipWidth - left, w);
     // console.log(hovered.data);
     // console.log(formatDollars(hovered.data.value));
+  }
+
+  function calcTop(y, top) {
+    // console.log(y, tooltipHeight, top);
+    if (y + tooltipHeight - top > h) {
+      return y - tooltipHeight - top - offset;
+    } else {
+      return y - top + offset;
+    }
+  }
+
+  function calcLeft(x, left) {
+    // console.log(x, tooltipWidth, left);
+    if (x + tooltipWidth - left > w) {
+      if (x - tooltipWidth - left < 0) {
+        return x - left - tooltipWidth / 2;
+      } else {
+        return x - left - tooltipWidth - offset;
+      }
+    } else {
+      return x - left + offset;
+    }
   }
 </script>
 
@@ -25,17 +48,13 @@
   class:active={hovered}
   style={hovered &&
     hovered.e &&
-    `top: ${
-      hovered.e.clientY + tooltipHeight / 2 > h
-        ? hovered.e.clientY - tooltipHeight
-        : hovered.e.clientY - tooltipHeight / 2
-    }px; left: ${
-      hovered.e.clientX + tooltipWidth > w
-        ? hovered.e.clientX - tooltipWidth < 0
-          ? hovered.e.clientX - tooltipWidth / 2
-          : hovered.e.clientX - tooltipWidth - offset
-        : hovered.e.clientX + offset
-    }px;`}
+    `top: ${calcTop(
+      hovered.e.clientY,
+      container.getBoundingClientRect().top
+    )}px; left: ${calcLeft(
+      hovered.e.clientX,
+      container.getBoundingClientRect().left
+    )}px;`}
 >
   {#if hovered}
     <div class="title">{department[hovered.data.department]}</div>
