@@ -161,6 +161,6 @@
   }
   .chart {
     z-index: 1;
-    height: 150px;
+    height: 125px;
   }
 </style>
