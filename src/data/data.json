@@ -1,1112 +1,490 @@
 {
   "data": [
     {
-      "fiscal_year": 2020,
+      "2021": 2726927418,
+      "2022": 2764748188,
       "organization_group": "Community Health",
       "department": "DPH Public Health",
-      "budget": 2377577444
+      "change": 0.0138693717149753
     },
     {
-      "fiscal_year": 2020,
+      "2021": 10236316,
+      "2022": 10598289,
       "organization_group": "Culture & Recreation",
       "department": "AAM Asian Art Museum",
-      "budget": 12033316
+      "change": 0.0353616476865309
     },
     {
-      "fiscal_year": 2020,
+      "2021": 20258030,
+      "2022": 48609476,
       "organization_group": "Culture & Recreation",
       "department": "ART Arts Commission",
-      "budget": 27583372
+      "change": 1.39951643866654
     },
     {
-      "fiscal_year": 2020,
+      "2021": 18291103,
+      "2022": 20806756,
       "organization_group": "Culture & Recreation",
       "department": "FAM Fine Arts Museum",
-      "budget": 19389018
+      "change": 0.137534242740856
     },
     {
-      "fiscal_year": 2020,
+      "2021": 151627418,
+      "2022": 171146593,
       "organization_group": "Culture & Recreation",
       "department": "LIB Public Library",
-      "budget": 171521236
+      "change": 0.128731170506379
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1937106,
+      "2022": 2033206,
       "organization_group": "Culture & Recreation",
       "department": "LLB Law Library",
-      "budget": 2140990
+      "change": 0.0496100884515354
     },
     {
-      "fiscal_year": 2020,
+      "2021": 228100415,
+      "2022": 239663471,
       "organization_group": "Culture & Recreation",
       "department": "REC Recreation & Park Commsn",
-      "budget": 215851610
+      "change": 0.0506928319266758
     },
     {
-      "fiscal_year": 2020,
+      "2021": 5587723,
+      "2022": 5572739,
       "organization_group": "Culture & Recreation",
       "department": "SCI Academy of Sciences",
-      "budget": 6576684
+      "change": -0.00268159319994924
     },
     {
-      "fiscal_year": 2020,
+      "2021": 24471735,
+      "2022": 28897401,
       "organization_group": "Culture & Recreation",
       "department": "WAR War Memorial",
-      "budget": 27341093
+      "change": 0.180848068189689
     },
     {
-      "fiscal_year": 2020,
+      "2021": 208635740,
+      "2022": 264299766,
       "organization_group": "General Administration & Finance",
       "department": "ADM GSA - City Administrator",
-      "budget": 271300286
+      "change": 0.266800050652874
     },
     {
-      "fiscal_year": 2020,
+      "2021": 35632125,
+      "2022": 32647585,
       "organization_group": "General Administration & Finance",
       "department": "ASR Assessor / Recorder",
-      "budget": 38695193
+      "change": -0.0837598094416204
     },
     {
-      "fiscal_year": 2020,
+      "2021": 18444322,
+      "2022": 20316610,
       "organization_group": "General Administration & Finance",
       "department": "BOS Board of Supervisors",
-      "budget": 18073272
+      "change": 0.101510264242838
     },
     {
-      "fiscal_year": 2020,
+      "2021": 30846832,
+      "2022": 32458458,
       "organization_group": "General Administration & Finance",
       "department": "CAT City Attorney",
-      "budget": 29197550
+      "change": 0.0522460783006825
     },
     {
-      "fiscal_year": 2020,
+      "2021": 13333614,
+      "2022": 13621888,
       "organization_group": "General Administration & Finance",
       "department": "CON Controller",
-      "budget": 13977502
+      "change": 0.0216200948970024
     },
     {
-      "fiscal_year": 2020,
+      "2021": 58221124,
+      "2022": 58967056,
       "organization_group": "General Administration & Finance",
       "department": "CPC City Planning",
-      "budget": 53851707
+      "change": 0.0128120508288366
     },
     {
-      "fiscal_year": 2020,
+      "2021": 925194,
+      "2022": 1027473,
       "organization_group": "General Administration & Finance",
       "department": "CSC Civil Service Commission",
-      "budget": 975285
+      "change": 0.110548706541546
     },
     {
-      "fiscal_year": 2020,
+      "2021": 10204315,
+      "2022": 25503561,
       "organization_group": "General Administration & Finance",
       "department": "DT  GSA - Technology",
-      "budget": 16478424
+      "change": 1.49929181919609
     },
     {
-      "fiscal_year": 2020,
+      "2021": 4724515,
+      "2022": 6551078,
       "organization_group": "General Administration & Finance",
       "department": "ETH Ethics Commission",
-      "budget": 11606418
+      "change": 0.386613864068586
     },
     {
-      "fiscal_year": 2020,
+      "2021": 19626939,
+      "2022": 27461905,
       "organization_group": "General Administration & Finance",
       "department": "HRD Human Resources",
-      "budget": 22841174
+      "change": 0.399194494872583
     },
     {
-      "fiscal_year": 2020,
+      "2021": 634428,
+      "2022": 635089,
       "organization_group": "General Administration & Finance",
       "department": "HSS Health Service System",
-      "budget": 633768
+      "change": 0.00104188339732798
     },
     {
-      "fiscal_year": 2020,
+      "2021": 189192902,
+      "2022": 243946773,
       "organization_group": "General Administration & Finance",
       "department": "MYR Mayor",
-      "budget": 305401376
+      "change": 0.289407638559294
     },
     {
-      "fiscal_year": 2020,
+      "2021": 24318329,
+      "2022": 30601997,
       "organization_group": "General Administration & Finance",
       "department": "REG Elections",
-      "budget": 26541119
+      "change": 0.258392260422169
     },
     {
-      "fiscal_year": 2020,
+      "2021": 39606333,
+      "2022": 41250618,
       "organization_group": "General Administration & Finance",
       "department": "RET Retirement System",
-      "budget": 127837637
+      "change": 0.0415157091165193
     },
     {
-      "fiscal_year": 2020,
+      "2021": 35819154,
+      "2022": 38147304,
       "organization_group": "General Administration & Finance",
       "department": "TTX Treasurer/Tax Collector",
-      "budget": 36951565
+      "change": 0.0649973475085425
     },
     {
-      "fiscal_year": 2020,
+      "2021": 755611439,
+      "2022": 636273043,
       "organization_group": "General City Responsibilities",
       "department": "GEN General City / Unallocated",
-      "budget": 771960441
+      "change": -0.157936195563603
     },
     {
-      "fiscal_year": 2020,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CCD SF Communtiy College Dist",
-      "budget": 0
-    },
-    {
-      "fiscal_year": 2020,
+      "2021": 13489711,
+      "2022": 13010244,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "CFC Children & Families Commsn",
-      "budget": 12838528
+      "change": -0.0355431632301092
     },
     {
-      "fiscal_year": 2020,
+      "2021": 281888395,
+      "2022": 309647967,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "CHF Children;Youth & Families",
-      "budget": 310457665
+      "change": 0.0984771721446709
     },
     {
-      "fiscal_year": 2020,
+      "2021": 222250766,
+      "2022": 220745882,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "CII Community Invest/Infrastr",
-      "budget": -9752755
+      "change": -0.00677110827145585
     },
     {
-      "fiscal_year": 2020,
+      "2021": 13242406,
+      "2022": 13127955,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "CSS Child Support Services",
-      "budget": 13407115
+      "change": -0.00864276476646313
     },
     {
-      "fiscal_year": 2020,
+      "2021": 35930210,
+      "2022": 19642408,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "ENV Environment",
-      "budget": 23359897
+      "change": -0.453317751273928
     },
     {
-      "fiscal_year": 2020,
+      "2021": 843879092,
+      "2022": 660625639,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "HOM Homelessness Services",
-      "budget": 359289467
+      "change": -0.217156053203887
     },
     {
-      "fiscal_year": 2020,
+      "2021": 11105468,
+      "2022": 14444132,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "HRC Human Rights Commission",
-      "budget": 7681538
+      "change": 0.300632445206271
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1353397268,
+      "2022": 1312048243,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "HSA Human Services Agency",
-      "budget": 1016178160
+      "change": -0.0305520233989418
     },
     {
-      "fiscal_year": 2020,
+      "2021": 9381302,
+      "2022": 13982121,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "RNT Rent Arbitration Board",
-      "budget": 9144677
+      "change": 0.490424356874983
     },
     {
-      "fiscal_year": 2020,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "USD County Education Office",
-      "budget": 0
-    },
-    {
-      "fiscal_year": 2020,
+      "2021": 10279426,
+      "2022": 11121448,
       "organization_group": "Human Welfare & Neighborhood Development",
       "department": "WOM Status of Women",
-      "budget": 19259078
+      "change": 0.0819133286236021
     },
     {
-      "fiscal_year": 2020,
+      "2021": 41818109,
+      "2022": 48662113,
       "organization_group": "Public Protection",
       "department": "ADP Adult Probation",
-      "budget": 41881466
+      "change": 0.163661250201437
     },
     {
-      "fiscal_year": 2020,
+      "2021": 131374564,
+      "2022": 132701856,
       "organization_group": "Public Protection",
       "department": "CRT Superior Court",
-      "budget": 130648179
+      "change": 0.0101031125020517
     },
     {
-      "fiscal_year": 2020,
+      "2021": 72914646,
+      "2022": 80557752,
       "organization_group": "Public Protection",
       "department": "DAT District Attorney",
-      "budget": 72794523
+      "change": 0.104822644273689
     },
     {
-      "fiscal_year": 2020,
+      "2021": 114237732,
+      "2022": 118991530,
       "organization_group": "Public Protection",
       "department": "DEM Emergency Management",
-      "budget": 93778124
+      "change": 0.0416132035954635
     },
     {
-      "fiscal_year": 2020,
+      "2021": 10207143,
+      "2022": 9245996,
       "organization_group": "Public Protection",
       "department": "DPA Police Accountabilty",
-      "budget": 11349966
+      "change": -0.0941641554350713
     },
     {
-      "fiscal_year": 2020,
+      "2021": 405437421,
+      "2022": 426614374,
       "organization_group": "Public Protection",
       "department": "FIR Fire Department",
-      "budget": 417712233
+      "change": 0.0522323591832437
     },
     {
-      "fiscal_year": 2020,
+      "2021": 41104225,
+      "2022": 42793703,
       "organization_group": "Public Protection",
       "department": "JUV Juvenile Probation",
-      "budget": 42660786
+      "change": 0.0411022954452979
     },
     {
-      "fiscal_year": 2020,
+      "2021": 42164703,
+      "2022": 45200551,
       "organization_group": "Public Protection",
       "department": "PDR Public Defender",
-      "budget": 41173445
+      "change": 0.0719997482254292
     },
     {
-      "fiscal_year": 2020,
+      "2021": 651763601,
+      "2022": 649650138,
       "organization_group": "Public Protection",
       "department": "POL Police",
-      "budget": 674061291
+      "change": -0.00324268338513736
     },
     {
-      "fiscal_year": 2020,
+      "2021": 216993200,
+      "2022": 239206311,
       "organization_group": "Public Protection",
       "department": "SHF Sheriff",
-      "budget": 232458844
+      "change": 0.102367774658376
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1440243404,
+      "2022": 1151679961,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "AIR Airport Commission",
-      "budget": 1167744155
+      "change": -0.200357413336225
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1177452,
+      "2022": 1095914,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "BOA Board of Appeals",
-      "budget": 1163817
+      "change": -0.0692495320403719
     },
     {
-      "fiscal_year": 2020,
+      "2021": 89408513,
+      "2022": 89493782,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "DBI Building Inspection",
-      "budget": 96326638
+      "change": 0.000953701131345289
     },
     {
-      "fiscal_year": 2020,
+      "2021": 194204739,
+      "2022": 202259443,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "DPW GSA - Public Works",
-      "budget": 236494008
+      "change": 0.0414753215677193
     },
     {
-      "fiscal_year": 2020,
+      "2021": 90805453,
+      "2022": 147639958,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "ECN Economic & Wrkfrce Dvlpmnt",
-      "budget": 82134512
+      "change": 0.625893083755663
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1542437079,
+      "2022": 1384453801,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "MTA Municipal Transprtn Agncy",
-      "budget": 1280102403
+      "change": -0.102424455526201
     },
     {
-      "fiscal_year": 2020,
+      "2021": 124752845,
+      "2022": 92437882,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "PRT Port",
-      "budget": 145756108
+      "change": -0.259031872178947
     },
     {
-      "fiscal_year": 2020,
+      "2021": 1292888340,
+      "2022": 1349852691,
       "organization_group": "Public Works, Transportation & Commerce",
       "department": "PUC Public Utilities Commsn",
-      "budget": 1262602895
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Community Health",
-      "department": "DPH Public Health",
-      "budget": 2726927418
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "AAM Asian Art Museum",
-      "budget": 10236316
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "ART Arts Commission",
-      "budget": 20258030
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "FAM Fine Arts Museum",
-      "budget": 18291103
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "LIB Public Library",
-      "budget": 151627418
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "LLB Law Library",
-      "budget": 1937106
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "REC Recreation & Park Commsn",
-      "budget": 228100415
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "SCI Academy of Sciences",
-      "budget": 5587723
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Culture & Recreation",
-      "department": "WAR War Memorial",
-      "budget": 24471735
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "ADM GSA - City Administrator",
-      "budget": 208635740
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "ASR Assessor / Recorder",
-      "budget": 35632125
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "BOS Board of Supervisors",
-      "budget": 18444322
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "CAT City Attorney",
-      "budget": 30846832
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "CON Controller",
-      "budget": 13333614
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "CPC City Planning",
-      "budget": 58221124
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "CSC Civil Service Commission",
-      "budget": 925194
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "DT  GSA - Technology",
-      "budget": 10204315
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "ETH Ethics Commission",
-      "budget": 4724515
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "HRD Human Resources",
-      "budget": 19626939
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "HSS Health Service System",
-      "budget": 634428
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "MYR Mayor",
-      "budget": 189192902
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "REG Elections",
-      "budget": 24318329
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "RET Retirement System",
-      "budget": 39606333
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General Administration & Finance",
-      "department": "TTX Treasurer/Tax Collector",
-      "budget": 35819154
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "General City Responsibilities",
-      "department": "GEN General City / Unallocated",
-      "budget": 755611439
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CCD SF Communtiy College Dist",
-      "budget": 0
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CFC Children & Families Commsn",
-      "budget": 13489711
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CHF Children;Youth & Families",
-      "budget": 281888395
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CII Community Invest/Infrastr",
-      "budget": 222250766
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "CSS Child Support Services",
-      "budget": 13242406
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "ENV Environment",
-      "budget": 35930210
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "HOM Homelessness Services",
-      "budget": 843879092
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "HRC Human Rights Commission",
-      "budget": 11105468
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "HSA Human Services Agency",
-      "budget": 1353397268
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "RNT Rent Arbitration Board",
-      "budget": 9381302
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "USD County Education Office",
-      "budget": 0
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Human Welfare & Neighborhood Development",
-      "department": "WOM Status of Women",
-      "budget": 10279426
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "ADP Adult Probation",
-      "budget": 41818109
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "CRT Superior Court",
-      "budget": 131374564
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "DAT District Attorney",
-      "budget": 72914646
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "DEM Emergency Management",
-      "budget": 114237732
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "DPA Police Accountabilty",
-      "budget": 10207143
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "FIR Fire Department",
-      "budget": 405437421
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "JUV Juvenile Probation",
-      "budget": 41104225
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "PDR Public Defender",
-      "budget": 42164703
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "POL Police",
-      "budget": 651763601
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Protection",
-      "department": "SHF Sheriff",
-      "budget": 216993200
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "AIR Airport Commission",
-      "budget": 1440243404
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "BOA Board of Appeals",
-      "budget": 1177452
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "DBI Building Inspection",
-      "budget": 89408513
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "DPW GSA - Public Works",
-      "budget": 194204739
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "ECN Economic & Wrkfrce Dvlpmnt",
-      "budget": 90805453
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "MTA Municipal Transprtn Agncy",
-      "budget": 1542437079
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "PRT Port",
-      "budget": 124752845
-    },
-    {
-      "fiscal_year": 2021,
-      "organization_group": "Public Works, Transportation & Commerce",
-      "department": "PUC Public Utilities Commsn",
-      "budget": 1292888340
+      "change": 0.0440597607988327
     }
   ],
-  "department": [
-    {
-      "old": "SCI Academy of Sciences",
-      "new": "Academy of Sciences (SCI)"
-    },
-    {
-      "old": "ADP Adult Probation",
-      "new": "Adult Probation (ADP)"
-    },
-    {
-      "old": "AIR Airport Commission",
-      "new": "Airport Commission (AIR)"
-    },
-    {
-      "old": "ART Arts Commission",
-      "new": "Arts Commission (ART)"
-    },
-    {
-      "old": "AAM Asian Art Museum",
-      "new": "Asian Art Museum (AAM)"
-    },
-    {
-      "old": "ASR Assessor / Recorder",
-      "new": "Assessor/Recorder (ASR)"
-    },
-    {
-      "old": "BOA Board of Appeals",
-      "new": "Board of Appeals (BOA)"
-    },
-    {
-      "old": "BOS Board of Supervisors",
-      "new": "Board of Supervisors (BOS)"
-    },
-    {
-      "old": "DBI Building Inspection",
-      "new": "Building Inspection (DBI)"
-    },
-    {
-      "old": "CSS Child Support Services",
-      "new": "Child Support Services (CSS)"
-    },
-    {
-      "old": "CFC Children & Families Commsn",
-      "new": "Children & Families Commission (CFC)"
-    },
-    {
-      "old": "CHF Children;Youth & Families",
-      "new": "Children, Youth & Families (CHF)"
-    },
-    {
-      "old": "ADM GSA - City Administrator",
-      "new": "City Administrator (ADM)"
-    },
-    {
-      "old": "CAT City Attorney",
-      "new": "City Attorney (CAT)"
-    },
-    {
-      "old": "CSC Civil Service Commission",
-      "new": "Civil Service Commission (CSC)"
-    },
-    {
-      "old": "CII Community Invest/Infrastr",
-      "new": "Community Investment (CII)"
-    },
-    {
-      "old": "CON Controller",
-      "new": "Controller (CON)"
-    },
-    {
-      "old": "DAT District Attorney",
-      "new": "District Attorney (DAT)"
-    },
-    {
-      "old": "ECN Economic & Wrkfrce Dvlpmnt",
-      "new": "Economic & Workforce Development (ECN)"
-    },
-    {
-      "old": "REG Elections",
-      "new": "Elections (REG)"
-    },
-    {
-      "old": "DEM Emergency Management",
-      "new": "Emergency Management (DEM)"
-    },
-    {
-      "old": "ENV Environment",
-      "new": "Environment (ENV)"
-    },
-    {
-      "old": "ETH Ethics Commission",
-      "new": "Ethics Commission (ETH)"
-    },
-    {
-      "old": "FAM Fine Arts Museum",
-      "new": "Fine Arts Museum (FAM)"
-    },
-    {
-      "old": "FIR Fire Department",
-      "new": "Fire Department (FIR)"
-    },
-    {
-      "old": "GEN General City / Unallocated",
-      "new": "General/Unallocated (GEN)"
-    },
-    {
-      "old": "HSS Health Service System",
-      "new": "Health Service System (HSS)"
-    },
-    {
-      "old": "HOM Homelessness Services",
-      "new": "Homelessness Services (HOM)"
-    },
-    {
-      "old": "HRD Human Resources",
-      "new": "Human Resources  (HRD)"
-    },
-    {
-      "old": "HRC Human Rights Commission",
-      "new": "Human Rights Commission (HRC)"
-    },
-    {
-      "old": "HSA Human Services Agency",
-      "new": "Human Services Agency (HSA)"
-    },
-    {
-      "old": "JUV Juvenile Probation",
-      "new": "Juvenile Probation (JUV)"
-    },
-    {
-      "old": "LLB Law Library",
-      "new": "Law Library (LLB)"
-    },
-    {
-      "old": "MYR Mayor",
-      "new": "Mayor (MYR)"
-    },
-    {
-      "old": "MTA Municipal Transprtn Agncy",
-      "new": "Municipal Transporation (MTA)"
-    },
-    {
-      "old": "CPC City Planning",
-      "new": "Planning (CPC)"
-    },
-    {
-      "old": "POL Police",
-      "new": "Police (POL)"
-    },
-    {
-      "old": "DPA Police Accountabilty",
-      "new": "Police Accountability (DPA)"
-    },
-    {
-      "old": "PRT Port",
-      "new": "Port (PRT)"
-    },
-    {
-      "old": "PDR Public Defender",
-      "new": "Public Defender (PDR)"
-    },
-    {
-      "old": "DPH Public Health",
-      "new": "Public Health (DPH)"
-    },
-    {
-      "old": "LIB Public Library",
-      "new": "Public Library (LIB)"
-    },
-    {
-      "old": "PUC Public Utilities Commsn",
-      "new": "Public Utilities (PUC)"
-    },
-    {
-      "old": "DPW GSA - Public Works",
-      "new": "Public Works (DPW)"
-    },
-    {
-      "old": "REC Recreation & Park Commsn",
-      "new": "Rec & Park Commission (REC)"
-    },
-    {
-      "old": "RNT Rent Arbitration Board",
-      "new": "Rent Arbitration Board (RNT)"
-    },
-    {
-      "old": "RET Retirement System",
-      "new": "Retirement System (RET)"
-    },
-    {
-      "old": "SHF Sheriff",
-      "new": "Sheriff (SHF)"
-    },
-    {
-      "old": "WOM Status of Women",
-      "new": "Status of Women (WOM)"
-    },
-    {
-      "old": "CRT Superior Court",
-      "new": "Superior Court (CRT)"
-    },
-    {
-      "old": "DT  GSA - Technology",
-      "new": "Technology (DT)"
-    },
-    {
-      "old": "TTX Treasurer/Tax Collector",
-      "new": "Treasurer/Tax Collector (TTX)"
-    },
-    {
-      "old": "WAR War Memorial",
-      "new": "War Memorial (WAR)"
-    }
-  ],
-  "descriptions": [
-    {
-      "name": "Public Health (DPH)",
-      "description": "Administers a wide range of public health services and programs, including SF General and Laguna Honda hospitals."
-    },
-    {
-      "name": "Asian Art Museum (AAM)",
-      "description": "City-owned museum showcasing art from Asian cultures. "
-    },
-    {
-      "name": "Arts Commission (ART)",
-      "description": "Develops public arts programming, gives grants and issues art vendor licenses."
-    },
-    {
-      "name": "Fine Arts Museum (FAM)",
-      "description": "Oversees the De Young Museum and Legion of Honor. "
-    },
-    {
-      "name": "Public Library (LIB)",
-      "description": "Manages the city's main branch and neighborhood libraries."
-    },
-    {
-      "name": "Law Library (LLB)",
-      "description": "Oversees the SF Law Library, a collection of legal resources for the public and legal community. "
-    },
-    {
-      "name": "Rec & Park Commission (REC)",
-      "description": "Oversees more than 220 public parks, playgrounds and open spaces. "
-    },
-    {
-      "name": "Academy of Sciences (SCI)",
-      "description": "Museum and research institute in Golden Gate Park."
-    },
-    {
-      "name": "War Memorial (WAR)",
-      "description": "City-owned opera house and performing arts centers. "
-    },
-    {
-      "name": "City Administrator (ADM)",
-      "description": "Oversees a range of city services, such as the County Clerk, capital planning program, office of contract administration and others. "
-    },
-    {
-      "name": "Assessor/Recorder (ASR)",
-      "description": "Assesses and maintains records of all taxable property in San Francisco. "
-    },
-    {
-      "name": "Board of Supervisors (BOS)",
-      "description": "11-member legislative body that sets city policy, and adopts ordinances and resolutions."
-    },
-    {
-      "name": "City Attorney (CAT)",
-      "description": "Law office representing the City and County of San Francisco."
-    },
-    {
-      "name": "Controller (CON)",
-      "description": "Chief budget office and auditor for San Francisco. "
-    },
-    {
-      "name": "Planning (CPC)",
-      "description": "Oversees long-range city planning, design review and environmental review for developments. "
-    },
-    {
-      "name": "Civil Service Commission (CSC)",
-      "description": "Oversees the city's merit system and sets policy for hiring and contracting. "
-    },
-    {
-      "name": "Technology (DT)",
-      "description": "Provides technology services to city departments and agencies."
-    },
-    {
-      "name": "Ethics Commission (ETH)",
-      "description": "Promotes education and enforcement of governmental ethics laws."
-    },
-    {
-      "name": "Human Resources  (HRD)",
-      "description": "Hires, develops, and supports the city's workforce. "
-    },
-    {
-      "name": "Health Service System (HSS)",
-      "description": "Administers health benefits for employees and retirees of the city, SFUSD, City College of San Francisco and SF Superior Court."
-    },
-    {
-      "name": "Mayor (MYR)",
-      "description": "San Francisco's chief executive. Sets policy, coordinates departments and intergovernmental activites, and prepares the budget. "
-    },
-    {
-      "name": "Elections (REG)",
-      "description": "Conducts elections and election-related services, and ensures voting access. "
-    },
-    {
-      "name": "Retirement System (RET)",
-      "description": "Administers pension and a compensation plans for current and retired city workers."
-    },
-    {
-      "name": "Treasurer/Tax Collector (TTX)",
-      "description": "Banker, tax collector, collection agent and investment officer for the city. "
-    },
-    {
-      "name": "General/Unallocated (GEN)",
-      "description": "Responsibilities not directly attributable to one city department, or that are citywide in nature."
-    },
-    {
-      "name": "Sheriff Accountability OIG (SDA)",
-      "description": "Civilian oversight body for the Sheriff's Department."
-    },
-    {
-      "name": "Children & Families Commission (CFC)",
-      "description": "Develops and funds programming for young children and their families."
-    },
-    {
-      "name": "Children, Youth & Families (CHF)",
-      "description": "Creates and facilitates citywide policy and projects in support of children, youth and families."
-    },
-    {
-      "name": "Community Investment (CII)",
-      "description": "Redevelopment agency that coordinates financing, affordable housing, and design and land use approvals for new neighborhoods."
-    },
-    {
-      "name": "Child Support Services (CSS)",
-      "description": "Establishes and enforces child and medical support orders."
-    },
-    {
-      "name": "Environment (ENV)",
-      "description": "Sets and implements policy on waste reduction, renewable energy, nature conservation and other environmental goals. "
-    },
-    {
-      "name": "Homelessness Services (HOM)",
-      "description": "Oversees programs and contracts related to homelessness and supportive housing. "
-    },
-    {
-      "name": "Human Rights Commission (HRC)",
-      "description": "Enforces the city’s anti-discrimination laws and promotes community racial solidarity and healing."
-    },
-    {
-      "name": "Human Services Agency (HSA)",
-      "description": "Provides food and cash assistance, health insurance, job training, early education and supportive care."
-    },
-    {
-      "name": "Rent Arbitration Board (RNT)",
-      "description": "Conducts rent arbitrations and mediations, and investigates wrongful evictions."
-    },
-    {
-      "name": "County Education Office (USD)",
-      "description": "San Francisco Unified School District, an independent entity."
-    },
-    {
-      "name": "Status of Women (WOM)",
-      "description": "Promotes the advancement of women and girls through policies, legislation and programs."
-    },
-    {
-      "name": "Adult Probation (ADP)",
-      "description": "Administers and coordinates reetnry programs, victims services and specialized court services for adult criminal offenders. "
-    },
-    {
-      "name": "Superior Court (CRT)",
-      "description": "State court with jurisdiction over the city and county of San Francisco. "
-    },
-    {
-      "name": "District Attorney (DAT)",
-      "description": "Prosecutes criminal violations of state and local laws."
-    },
-    {
-      "name": "Emergency Management (DEM)",
-      "description": "Manages disaster and emergency response, including 911. "
-    },
-    {
-      "name": "Police Accountability (DPA)",
-      "description": "Investigates complaints about police officers and recommends policy changes."
-    },
-    {
-      "name": "Fire Department (FIR)",
-      "description": "Provides firefighting, disaster response and emergency medial assistance. "
-    },
-    {
-      "name": "Juvenile Probation (JUV)",
-      "description": "Coordinates probation and rehabilitation services for youth offenders. "
-    },
-    {
-      "name": "Public Defender (PDR)",
-      "description": "Provides legal defense and services to criminal defendants. "
-    },
-    {
-      "name": "Police (POL)",
-      "description": "Enforces laws and investigates criminal activity. "
-    },
-    {
-      "name": "Sheriff (SHF)",
-      "description": "Manages jail and court services and provides other law enforcement support. "
-    },
-    {
-      "name": "Airport Commission (AIR)",
-      "description": "Oversees operations and maintenance of San Francisco International Airport. "
-    },
-    {
-      "name": "Board of Appeals (BOA)",
-      "description": "Hears and decides appeals related to permits, licenses and other use entitlements."
-    },
-    {
-      "name": "Building Inspection (DBI)",
-      "description": "Approves plans and issues permits all construction in the city. "
-    },
-    {
-      "name": "Public Works (DPW)",
-      "description": "Maintains and improves civic buildings, streets and other public infrastructure. "
-    },
-    {
-      "name": "Economic & Workforce Development (ECN)",
-      "description": "Coordinates small business services, economic and neighborhood development, and job placement programs. "
-    },
-    {
-      "name": "Municipal Transporation (MTA)",
-      "description": "Manages Muni and transit infrastructure, including walking, bicycling, parking, driving, paratransit, and taxis."
-    },
-    {
-      "name": "Port (PRT)",
-      "description": "Oversees operations and maintenance of the Port of San Francisco. "
-    },
-    {
-      "name": "Public Utilities (PUC)",
-      "description": "Provides water, power, and sewer services. "
-    },
-    {
-      "name": "Technology (COIT Funded)",
-      "description": "Funding allocated by the Committee on Information Technology, the city's tech governance and policy making body."
-    },
-    {
-      "name": "Capital (CPC Funded)",
-      "description": "Funding allocated by the Capital Planning Committee, which makes recommendations on capital expenditures. "
-    },
-    {
-      "name": "Maintenance (CPC Funded)",
-      "description": "Funding allocated by the Capital Planning Committee, which makes recommendations on capital expenditures. "
-    }
-  ]
+  "department": {
+    "SCI Academy of Sciences": "Academy of Sciences (SCI)",
+    "ADP Adult Probation": "Adult Probation (ADP)",
+    "AIR Airport Commission": "Airport Commission (AIR)",
+    "ART Arts Commission": "Arts Commission (ART)",
+    "AAM Asian Art Museum": "Asian Art Museum (AAM)",
+    "ASR Assessor / Recorder": "Assessor/Recorder (ASR)",
+    "BOA Board of Appeals": "Board of Appeals (BOA)",
+    "BOS Board of Supervisors": "Board of Supervisors (BOS)",
+    "DBI Building Inspection": "Building Inspection (DBI)",
+    "CSS Child Support Services": "Child Support Services (CSS)",
+    "CFC Children & Families Commsn": "Children & Families Commission (CFC)",
+    "CHF Children;Youth & Families": "Children, Youth & Families (CHF)",
+    "ADM GSA - City Administrator": "City Administrator (ADM)",
+    "CAT City Attorney": "City Attorney (CAT)",
+    "CSC Civil Service Commission": "Civil Service Commission (CSC)",
+    "CII Community Invest/Infrastr": "Community Investment (CII)",
+    "CON Controller": "Controller (CON)",
+    "DAT District Attorney": "District Attorney (DAT)",
+    "ECN Economic & Wrkfrce Dvlpmnt": "Economic & Workforce Development (ECN)",
+    "REG Elections": "Elections (REG)",
+    "DEM Emergency Management": "Emergency Management (DEM)",
+    "ENV Environment": "Environment (ENV)",
+    "ETH Ethics Commission": "Ethics Commission (ETH)",
+    "FAM Fine Arts Museum": "Fine Arts Museum (FAM)",
+    "FIR Fire Department": "Fire Department (FIR)",
+    "GEN General City / Unallocated": "General/Unallocated (GEN)",
+    "HSS Health Service System": "Health Service System (HSS)",
+    "HOM Homelessness Services": "Homelessness Services (HOM)",
+    "HRD Human Resources": "Human Resources  (HRD)",
+    "HRC Human Rights Commission": "Human Rights Commission (HRC)",
+    "HSA Human Services Agency": "Human Services Agency (HSA)",
+    "JUV Juvenile Probation": "Juvenile Probation (JUV)",
+    "LLB Law Library": "Law Library (LLB)",
+    "MYR Mayor": "Mayor (MYR)",
+    "MTA Municipal Transprtn Agncy": "Municipal Transporation (MTA)",
+    "CPC City Planning": "Planning (CPC)",
+    "POL Police": "Police (POL)",
+    "DPA Police Accountabilty": "Police Accountability (DPA)",
+    "PRT Port": "Port (PRT)",
+    "PDR Public Defender": "Public Defender (PDR)",
+    "DPH Public Health": "Public Health (DPH)",
+    "LIB Public Library": "Public Library (LIB)",
+    "PUC Public Utilities Commsn": "Public Utilities (PUC)",
+    "DPW GSA - Public Works": "Public Works (DPW)",
+    "REC Recreation & Park Commsn": "Rec & Park Commission (REC)",
+    "RNT Rent Arbitration Board": "Rent Arbitration Board (RNT)",
+    "RET Retirement System": "Retirement System (RET)",
+    "SHF Sheriff": "Sheriff (SHF)",
+    "WOM Status of Women": "Status of Women (WOM)",
+    "CRT Superior Court": "Superior Court (CRT)",
+    "DT  GSA - Technology": "Technology (DT)",
+    "TTX Treasurer/Tax Collector": "Treasurer/Tax Collector (TTX)",
+    "WAR War Memorial": "War Memorial (WAR)"
+  },
+  "descriptions": {
+    "Public Health (DPH)": "Administers a wide range of public health services and programs, including SF General and Laguna Honda hospitals.",
+    "Asian Art Museum (AAM)": "City-owned museum showcasing art from Asian cultures. ",
+    "Arts Commission (ART)": "Develops public arts programming, gives grants and issues art vendor licenses.",
+    "Fine Arts Museum (FAM)": "Oversees the De Young Museum and Legion of Honor. ",
+    "Public Library (LIB)": "Manages the city's main branch and neighborhood libraries.",
+    "Law Library (LLB)": "Oversees the SF Law Library, a collection of legal resources for the public and legal community. ",
+    "Rec & Park Commission (REC)": "Oversees more than 220 public parks, playgrounds and open spaces. ",
+    "Academy of Sciences (SCI)": "Museum and research institute in Golden Gate Park.",
+    "War Memorial (WAR)": "City-owned opera house and performing arts centers. ",
+    "City Administrator (ADM)": "Oversees a range of city services, such as the County Clerk, capital planning program, office of contract administration and others. ",
+    "Assessor/Recorder (ASR)": "Assesses and maintains records of all taxable property in San Francisco. ",
+    "Board of Supervisors (BOS)": "11-member legislative body that sets city policy, and adopts ordinances and resolutions.",
+    "City Attorney (CAT)": "Law office representing the City and County of San Francisco.",
+    "Controller (CON)": "Chief budget office and auditor for San Francisco. ",
+    "Planning (CPC)": "Oversees long-range city planning, design review and environmental review for developments. ",
+    "Civil Service Commission (CSC)": "Oversees the city's merit system and sets policy for hiring and contracting. ",
+    "Technology (DT)": "Provides technology services to city departments and agencies.",
+    "Ethics Commission (ETH)": "Promotes education and enforcement of governmental ethics laws.",
+    "Human Resources  (HRD)": "Hires, develops, and supports the city's workforce. ",
+    "Health Service System (HSS)": "Administers health benefits for employees and retirees of the city, SFUSD, City College of San Francisco and SF Superior Court.",
+    "Mayor (MYR)": "San Francisco's chief executive. Sets policy, coordinates departments and intergovernmental activites, and prepares the budget. ",
+    "Elections (REG)": "Conducts elections and election-related services, and ensures voting access. ",
+    "Retirement System (RET)": "Administers pension and a compensation plans for current and retired city workers.",
+    "Treasurer/Tax Collector (TTX)": "Banker, tax collector, collection agent and investment officer for the city. ",
+    "General/Unallocated (GEN)": "Responsibilities not directly attributable to one city department, or that are citywide in nature.",
+    "Sheriff Accountability OIG (SDA)": "Civilian oversight body for the Sheriff's Department.",
+    "Children & Families Commission (CFC)": "Develops and funds programming for young children and their families.",
+    "Children, Youth & Families (CHF)": "Creates and facilitates citywide policy and projects in support of children, youth and families.",
+    "Community Investment (CII)": "Redevelopment agency that coordinates financing, affordable housing, and design and land use approvals for new neighborhoods.",
+    "Child Support Services (CSS)": "Establishes and enforces child and medical support orders.",
+    "Environment (ENV)": "Sets and implements policy on waste reduction, renewable energy, nature conservation and other environmental goals. ",
+    "Homelessness Services (HOM)": "Oversees programs and contracts related to homelessness and supportive housing. ",
+    "Human Rights Commission (HRC)": "Enforces the city’s anti-discrimination laws and promotes community racial solidarity and healing.",
+    "Human Services Agency (HSA)": "Provides food and cash assistance, health insurance, job training, early education and supportive care.",
+    "Rent Arbitration Board (RNT)": "Conducts rent arbitrations and mediations, and investigates wrongful evictions.",
+    "County Education Office (USD)": "San Francisco Unified School District, an independent entity.",
+    "Status of Women (WOM)": "Promotes the advancement of women and girls through policies, legislation and programs.",
+    "Adult Probation (ADP)": "Administers and coordinates reetnry programs, victims services and specialized court services for adult criminal offenders. ",
+    "Superior Court (CRT)": "State court with jurisdiction over the city and county of San Francisco. ",
+    "District Attorney (DAT)": "Prosecutes criminal violations of state and local laws.",
+    "Emergency Management (DEM)": "Manages disaster and emergency response, including 911. ",
+    "Police Accountability (DPA)": "Investigates complaints about police officers and recommends policy changes.",
+    "Fire Department (FIR)": "Provides firefighting, disaster response and emergency medial assistance. ",
+    "Juvenile Probation (JUV)": "Coordinates probation and rehabilitation services for youth offenders. ",
+    "Public Defender (PDR)": "Provides legal defense and services to criminal defendants. ",
+    "Police (POL)": "Enforces laws and investigates criminal activity. ",
+    "Sheriff (SHF)": "Manages jail and court services and provides other law enforcement support. ",
+    "Airport Commission (AIR)": "Oversees operations and maintenance of San Francisco International Airport. ",
+    "Board of Appeals (BOA)": "Hears and decides appeals related to permits, licenses and other use entitlements.",
+    "Building Inspection (DBI)": "Approves plans and issues permits all construction in the city. ",
+    "Public Works (DPW)": "Maintains and improves civic buildings, streets and other public infrastructure. ",
+    "Economic & Workforce Development (ECN)": "Coordinates small business services, economic and neighborhood development, and job placement programs. ",
+    "Municipal Transporation (MTA)": "Manages Muni and transit infrastructure, including walking, bicycling, parking, driving, paratransit, and taxis.",
+    "Port (PRT)": "Oversees operations and maintenance of the Port of San Francisco. ",
+    "Public Utilities (PUC)": "Provides water, power, and sewer services. ",
+    "Technology (COIT Funded)": "Funding allocated by the Committee on Information Technology, the city's tech governance and policy making body.",
+    "Capital (CPC Funded)": "Funding allocated by the Capital Planning Committee, which makes recommendations on capital expenditures. ",
+    "Maintenance (CPC Funded)": "Funding allocated by the Capital Planning Committee, which makes recommendations on capital expenditures. "
+  }
 }

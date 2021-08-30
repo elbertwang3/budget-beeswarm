@@ -12,7 +12,22 @@ module.exports = {
    * the data fetchers. This is a good place to restructure the raw data, or
    * to do joins with other data you may have.
    */
-  dataMutators: {},
+
+  dataMutators: {
+    data(originalData) {
+      const { data, descriptions, department } = originalData;
+      originalData.descriptions = descriptions.reduce((obj, item) => {
+        obj[item.name] = item.description;
+        return obj;
+      }, {});
+
+      originalData.department = department.reduce((obj, item) => {
+        obj[item.old] = item.new;
+        return obj;
+      }, {});
+      return originalData;
+    },
+  },
 
   /**
    * `createAPI` makes it possible to bake out a series of JSON files that get
@@ -24,3 +39,10 @@ module.exports = {
    */
   apis: [],
 };
+
+function objectify(array) {
+  return array.reduce((obj, item) => {
+    obj[item.old] = item.new;
+    return obj;
+  }, {});
+}
