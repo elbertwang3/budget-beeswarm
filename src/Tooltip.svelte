@@ -65,7 +65,8 @@
       {formatDollars(hovered.data["2022"])}
       <span
         class={`change ${hovered.data.change > 0 ? "positive" : "negative"}`}
-        >{formatPercent(hovered.data.change)}</span
+        >{#if hovered.data.change > 0}
+          +{/if}{formatPercent(hovered.data.change)}</span
       >
     </div>{/if}
 </div>

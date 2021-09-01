@@ -30,6 +30,7 @@
   }
 
   const formatPercent = format(".0%");
+  const formatPercent1 = format(".1%");
 
   const zDomain = [-0.25, -0.1, 0, 0.1, 0.25, 0.5];
   const zRange = schemeRdYlGn[7];
@@ -101,7 +102,6 @@
             {zDomain}
             {zRange}
             data={value}
-            let:width
           >
             <Svg>
               <!-- <AxisX formatTick={formatPercent} {xKey} /> -->
@@ -116,7 +116,7 @@
       </div>
     {/each}
     {#if container}
-      <Tooltip {w} {h} {container} {hovered} {formatPercent} {formatDollars} />
+      <Tooltip {w} {h} {container} {hovered} formatPercent={formatPercent1} {formatDollars} />
     {/if}
   </div>
 </main>
