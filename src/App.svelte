@@ -15,7 +15,7 @@
   import Tooltip from "./Tooltip.svelte";
   import Key from "./Key.svelte";
 
-  let w, h, container;
+  let w, h, container, chartWidth;
   let hovered, nodes;
 
   const grouped = group(data, (d) => d.organization_group);
@@ -89,7 +89,7 @@
     {#each [...grouped] as [key, value]}
       <div class="chart-container">
         <div class="title">{key}</div>
-        <div class="chart">
+        <div class="chart" bind:clientWidth={chartWidth}>
           <LayerCake
             padding={{ top: 0, right: 0, bottom: 0, left: 0 }}
             x={xKey}
@@ -97,7 +97,6 @@
             r={rKey}
             rScale={scaleSqrt()}
             rDomain={[0, max(data, (d) => d["2022"])]}
-            rRange={[1, 40]}
             zScale={scaleThreshold()}
             {zDomain}
             {zRange}
@@ -116,7 +115,14 @@
       </div>
     {/each}
     {#if container}
-      <Tooltip {w} {h} {container} {hovered} formatPercent={formatPercent1} {formatDollars} />
+      <Tooltip
+        {w}
+        {h}
+        {container}
+        {hovered}
+        formatPercent={formatPercent1}
+        {formatDollars}
+      />
     {/if}
   </div>
 </main>
@@ -130,8 +136,6 @@
 
   .grid {
     position: relative;
-    max-width: 800px;
-    margin: auto;
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
@@ -164,5 +168,6 @@
   .chart {
     z-index: 1;
     height: 125px;
+    overflow: visible;
   }
 </style>

@@ -9,15 +9,14 @@
     forceCollide,
   } from "d3-force";
   import { Delaunay } from "d3-delaunay";
-  const { data, width, height, rGet, zGet } =
-    getContext("LayerCake");
+  const { data, width, height, rScale, rGet, zGet } = getContext("LayerCake");
 
+  $: $rScale.range([2, $width / 5]);
 
   export let hovered;
 
-
-//   export let xStrength = 0.01;
-//   export let yStrength = 0.075;
+  //   export let xStrength = 0.01;
+  //   export let yStrength = 0.075;
   export let manyBodyStrength = 100;
 
   // export let strokeWidth = 1;
@@ -42,6 +41,7 @@
     .force("center", forceCenter($width / 2, $height / 2))
     .force("charge", forceManyBody().strength(manyBodyStrength))
     .stop();
+
   $: {
     for (
       let i = 0,
